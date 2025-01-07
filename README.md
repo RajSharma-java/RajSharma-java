@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajkumar Sharma
-My old GitHub account was Nobita41, but I lost access to it because I deleted the associated Gmail account and can no longer receive OTP verification.
+My old GitHub account was @Nobita41, but I lost access to it because I deleted the associated Gmail account and can no longer receive OTP verification.
 - 👀 I’m interested in Java developer
 - 🌱 I’m currently working on Spring Boot Project 
 - 💞️ I’m looking to collaborate on Project java
