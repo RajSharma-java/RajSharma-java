@@ -11,7 +11,7 @@
   <br/>
   <a href="https://www.linkedin.com/in/rajkumar-296531216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/raj_sharma772"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:rajsharma2278608@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rajx07dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1stKQOkIHg3NvyTfG2Qb7PcH0_8nOT2wY/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-22c55e?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=rajsharma-java&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -43,7 +43,7 @@ public class RajSharma {
 - 🌱 Currently learning **Front-End development**
 - 👯 Looking to collaborate on **Spring Boot projects**
 - 💬 Ask me about **Java development**
-- 📫 Reach me at **rajsharma2278608@gmail.com**
+- 📫 Reach me at **rajx07dev@gmail.com**
 
 <br clear="right"/>
 
