@@ -1,37 +1,134 @@
-<h1 align="center">Hi 👋, I'm Raj Sharma</h1>
-<h3 align="center">A passionate Java developer from India</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajkumar-296531216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajkumar-296531216" height="30" width="40" /></a>
-<a href="https://instagram.com/raj_sharma772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_sharma772" height="30" width="40" /></a>
-</p>
-<img align="right" alt="coding" width=400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<!-- ═══════════════ HEADER (wave) ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Raj%20Sharma&fontSize=70&fontColor=00d4ff&fontAlignY=40&desc=Java%20Backend%20Developer%20•%20Spring%20Boot%20•%20Microservices&descSize=18&descAlignY=62&animation=twinkling" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsharma-java&label=Profile%20views&color=0e75b6&style=flat" alt="rajsharma-java" /> </p>
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Sharma;Passionate+Java+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+scalable+Spring+Boot+backends+%E2%9A%99%EF%B8%8F;Learning+Front-End+%F0%9F%8C%B1+%7C+Dil+to+bacha+hai+ji+%F0%9F%98%89" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsharma-java" alt="rajsharma-java" /></a> </p>
+<!-- ═══════════════ SOCIAL BADGES (shields.io + simple-icons) ═══════════════ -->
+<div align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/rajkumar-296531216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/raj_sharma772"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:rajsharma2278608@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1stKQOkIHg3NvyTfG2Qb7PcH0_8nOT2wY/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-22c55e?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=rajsharma-java&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/rajsharma-java?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/github/stars/rajsharma-java?label=Stars&style=for-the-badge&logo=github&color=f59e0b" />
+</div>
 
-- 🔭 I’m currently working on **Spring Boot backend Project**
+<!-- ═══════════════ DIVIDER ═══════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- 🌱 I’m currently learning **Front-End**
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Spring Boot Project**
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
+```java
+public class RajSharma {
+
+    String role      = "Java Backend Developer";
+    String location  = "India 🇮🇳";
+    String[] focus   = {"Spring Boot", "REST APIs", "Microservices", "MySQL"};
+    String learning  = "Front-End • Multithreading & Concurrency";
+    String funFact   = "Dil to bacha hai ji 😉";
+
+    boolean openToCollab() { return true; }
+}
+```
+
+- 🔭 Currently working on **Spring Boot backend projects**
+- 🌱 Currently learning **Front-End development**
+- 👯 Looking to collaborate on **Spring Boot projects**
 - 💬 Ask me about **Java development**
+- 📫 Reach me at **rajsharma2278608@gmail.com**
 
-- 📫 How to reach me **rajsharma2278608@gmail.com**
+<br clear="right"/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1stKQOkIHg3NvyTfG2Qb7PcH0_8nOT2wY/view?usp=sharing](https://drive.google.com/file/d/1stKQOkIHg3NvyTfG2Qb7PcH0_8nOT2wY/view?usp=sharing)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- ⚡ Fun fact **Dil to bacha hai ji 😉**
+## 🛠️ Languages & Tools
 
+<div align="center">
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsharma-java&show_icons=true&locale=en&layout=compact" alt="rajsharma-java" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajsharma-java&show_icons=true&locale=en" alt="rajsharma-java" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajsharma-java&" alt="rajsharma-java" /></p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajsharma-java&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsharma-java&layout=compact&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=rajsharma-java&theme=radical&hide_border=true" />
+</div>
+
+<!-- Profile summary cards -->
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajsharma-java&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajsharma-java&theme=radical" />
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajsharma-java&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajsharma-java&theme=react-dark&hide_border=true&area=true&custom_title=Raj%27s%20Contribution%20Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📌 Featured Projects
+
+<!-- Replace REPO_1 / REPO_2 with your actual repository names -->
+<div align="center">
+  <a href="https://github.com/rajsharma-java/REPO_1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajsharma-java&repo=REPO_1&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/rajsharma-java/REPO_2"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajsharma-java&repo=REPO_2&theme=radical&hide_border=true" /></a>
+</div>
+
+## 💬 Quote & Joke of the Moment
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&type=horizontal" />
+  <br/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" />
+</div>
+
+<!-- ═══════════════ FOOTER (wave) ═══════════════ -->
+<div align="center">
+
+**⭐ Like my work? Give my repositories a star!**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" />
